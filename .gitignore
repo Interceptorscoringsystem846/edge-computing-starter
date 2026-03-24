@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+.wrangler/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+wrangler.toml
+.dev.vars
+
+# Testing
+coverage/
+.nyc_output/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Temporary files
+*.tmp
+.cache/
+temp/
+tmp/
+
+# Cloudflare Workers specific
+worker-configuration.d.ts
+.mf/
+
+# Package manager locks (optional)
+# yarn.lock
+# package-lock.json
+# pnpm-lock.yaml
+
+# Analytics
+.dev.vars.local
