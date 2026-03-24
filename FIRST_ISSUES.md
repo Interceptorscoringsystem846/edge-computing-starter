@@ -331,7 +331,7 @@ const { user, token } = await auth.oauth.callback(code);
 ## 🤝 Need Help?
 
 - Open a [discussion](https://github.com/groovy-web/edge-computing-starter/discussions)
-- Join our [Discord](https://discord.gg/groovy-web)
+- Visit [Groovy Web](https://www.groovyweb.co)
 - Check [Cloudflare Discord](https://discord.cloudflare.com)
 
 ---

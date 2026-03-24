@@ -274,7 +274,7 @@ If applicable, describe breaking changes and migration path.
 For security vulnerabilities:
 
 1. **Do NOT open a public issue**
-2. Email: security@groovy-web.dev
+2. Email: hello@groovyweb.co
 3. Include details and reproduction steps
 4. We'll respond within 48 hours
 
